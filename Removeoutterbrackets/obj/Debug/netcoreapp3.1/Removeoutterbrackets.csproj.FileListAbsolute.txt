@@ -1,0 +1,11 @@
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.exe
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.deps.json
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.dll
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\bin\Debug\netcoreapp3.1\Removeoutterbrackets.pdb
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\obj\Debug\netcoreapp3.1\Removeoutterbrackets.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\obj\Debug\netcoreapp3.1\Removeoutterbrackets.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\obj\Debug\netcoreapp3.1\Removeoutterbrackets.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\obj\Debug\netcoreapp3.1\Removeoutterbrackets.dll
+C:\Users\monisha.khapali\source\repos\Removeoutterbrackets\Removeoutterbrackets\obj\Debug\netcoreapp3.1\Removeoutterbrackets.pdb
